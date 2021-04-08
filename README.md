@@ -1,5 +1,10 @@
-# JS Lessons
+# 📜 JS Lessons
 
-My learning path in JavaScript
+## My learning path in JavaScript
 
-- 🔢 Numbers
+Data types:
+
+- [Numbers](https://github.com/Poccu/JS_lessons/blob/master/numbers.js "Числа")
+- Strings
+- Arrays
+- Array methods
