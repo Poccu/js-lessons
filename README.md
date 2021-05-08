@@ -16,3 +16,8 @@ Advanced functions:
 
 - [Recurison](https://github.com/Poccu/js-lessons/blob/master/recursion.js "Рекурсия и стек")
 - [Closure](https://github.com/Poccu/js-lessons/blob/master/closure.js "Замыкание")
+- [Function object](https://github.com/Poccu/js-lessons/blob/master/function_object.js "Объект функции, NFE")
+- [setTimeout_& setInterval](https://github.com/Poccu/js-lessons/blob/master/settimeout_setinterval.js "Планирование: setTimeout и setInterval")
+
+Prototypes:
+- [Prototype inheritance](https://github.com/Poccu/js-lessons/blob/master/prototype_inheritance.js "Прототипное наследование")
